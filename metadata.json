@@ -1,0 +1,6 @@
+{
+  "name": "OB/NBE Regulatory Reporting Kernel",
+  "description": "Minimal production-oriented full-stack landing pad and runtime environment for the OB/NBE Regulatory Reporting application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
